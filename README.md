@@ -1,1 +1,1 @@
-# SocratesBot_VK
+Бот для бесед ВК
